@@ -1,0 +1,120 @@
+[
+    {
+      
+      "name": "Margherita Pizza",
+      "recipe": "Classic pizza with tomato sauce, mozzarella, and fresh basil.",
+      "image": "https://i.ibb.co.com/9m4MMh5M/img1.jpg",
+      "category": "Offered",
+      "price": 12.99
+    },
+    {
+    
+      "name": "Spaghetti Carbonara",
+      "recipe": "Pasta with eggs, pancetta, Parmesan cheese, and black pepper.",
+      "image": "https://i.ibb.co.com/9jpzycY/img3.jpg",
+      "category": "Pasta",
+      "price": 14.99
+    },
+    {
+     
+      "name": "Cheeseburger",
+      "recipe": "Juicy beef patty with melted cheese, lettuce, tomato, and sauce.",
+      "image": "https://i.ibb.co.com/jvmmyFJD/img2.jpg",
+      "category": "Offered",
+      "price": 9.99
+    },
+    {
+     
+      "name": "Caesar Salad",
+      "recipe": "Crisp romaine lettuce, croutons, Parmesan, and Caesar dressing.",
+      "image": "https://i.ibb.co.com/4g1ZzGj5/img8.jpg",
+      "category": "Salad",
+      "price": 8.99
+    },
+    {
+      
+      "name": "Grilled Salmon",
+      "recipe": "Salmon fillet grilled with lemon butter and herbs.",
+      "image": "https://i.ibb.co.com/RWQbqc2/img10.jpg",
+      "category": "Seafood",
+      "price": 18.99
+    },
+    {
+     
+      "name": "Chocolate Cake",
+      "recipe": "Rich and moist chocolate cake with a creamy ganache.",
+      "image": "https://i.ibb.co.com/k26cvb72/img14.jpg",
+      "category": "Dessert",
+      "price": 6.99
+    },
+    {
+      
+      "name": "Mango Smoothie",
+      "recipe": "Refreshing mango smoothie with yogurt and honey.",
+      "image": "https://i.ibb.co.com/7dfjNkLm/img13.jpg",
+      "category": "Offered",
+      "price": 5.99
+    },
+    {
+      
+      "name": "Tandoori Chicken",
+      "recipe": "Spiced and grilled chicken marinated in yogurt and Indian spices.",
+      "image": "https://i.ibb.co.com/mC08kghh/img9.jpg",
+      "category": "Offered",
+      "price": 15.99
+    }
+,
+{
+  
+  "name": "Chocolate Cake",
+  "recipe": "Rich and moist chocolate cake with a creamy ganache.",
+  "image": "https://i.ibb.co.com/k26cvb72/img14.jpg",
+  "category": "Dessert",
+  "price": 6.99
+},
+{
+  
+  "name": "Chocolate Cake",
+  "recipe": "Rich and moist chocolate cake with a creamy ganache.",
+  "image": "https://i.ibb.co.com/k26cvb72/img14.jpg",
+  "category": "Dessert",
+  "price": 6.99
+},
+
+{
+  
+  "name": "Grilled Salmon",
+  "recipe": "Salmon fillet grilled with lemon butter and herbs.",
+  "image": "https://i.ibb.co.com/RWQbqc2/img10.jpg",
+  "category": "Seafood",
+  "price": 18.99
+},
+
+{
+  
+  "name": "Grilled Salmon",
+  "recipe": "Salmon fillet grilled with lemon butter and herbs.",
+  "image": "https://i.ibb.co.com/RWQbqc2/img10.jpg",
+  "category": "Seafood",
+  "price": 18.99
+},
+
+{
+ 
+  "name": "Caesar Salad",
+  "recipe": "Crisp romaine lettuce, croutons, Parmesan, and Caesar dressing.",
+  "image": "https://i.ibb.co.com/4g1ZzGj5/img8.jpg",
+  "category": "Salad",
+  "price": 8.99
+},
+
+{
+  
+  "name": "Caesar Salad",
+  "recipe": "Crisp romaine lettuce, croutons, Parmesan, and Caesar dressing.",
+  "image": "https://i.ibb.co.com/4g1ZzGj5/img8.jpg",
+  "category": "Salad",
+  "price": 8.99
+}
+  ]
+  

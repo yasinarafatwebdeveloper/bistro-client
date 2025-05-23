@@ -1,0 +1,57 @@
+[
+    {
+      "_id": "1",
+      "name": "John Doe",
+      "details": "The service was outstanding! The team was professional, responsive, and ensured every detail was perfect. Highly recommend for anyone looking for quality and reliability in their products.",
+      "rating": 5
+    },
+    {
+      "_id": "2",
+      "name": "Jane Smith",
+      "details": "Had a good experience overall. The product was as described and of good quality. However, the delivery took longer than expected, which was a bit disappointing but still worth it.",
+      "rating": 4
+    },
+    {
+      "_id": "3",
+      "name": "Alice Johnson",
+      "details": "Absolutely fantastic product! The materials used were top-notch, and the craftsmanship was evident in every aspect. I would highly recommend this to anyone looking for reliability.",
+      "rating": 5
+    },
+    {
+      "_id": "4",
+      "name": "Bob Brown",
+      "details": "The product was decent but didn't fully meet my expectations. The quality was okay, but I was hoping for something more durable. Still, it's not a bad purchase overall.",
+      "rating": 3
+    },
+    {
+      "_id": "5",
+      "name": "Charlie Davis",
+      "details": "Great value for the price! I was impressed by the overall build quality and attention to detail. The packaging was also excellent, ensuring the item arrived safely.",
+      "rating": 4
+    },
+    {
+      "_id": "6",
+      "name": "David Wilson",
+      "details": "Exceptional customer service! The support team was very responsive and handled my inquiries promptly. The product itself was of high quality and exceeded my expectations.",
+      "rating": 5
+    },
+    {
+      "_id": "7",
+      "name": "Emma White",
+      "details": "A solid purchase! The design is sleek, and the functionality is smooth. I have been using it for a while, and it has held up well. Would recommend to friends.",
+      "rating": 4
+    },
+    {
+      "_id": "8",
+      "name": "Frank Harris",
+      "details": "Product met my expectations, but the instructions could have been clearer. After some trial and error, I got it working perfectly. Happy with the purchase overall.",
+      "rating": 4
+    },
+    {
+      "_id": "9",
+      "name": "Grace Taylor",
+      "details": "Quality was amazing, and the performance was even better! I had some concerns before buying, but they were quickly resolved. I am extremely happy with my choice.",
+      "rating": 5
+    }
+  ]
+  
